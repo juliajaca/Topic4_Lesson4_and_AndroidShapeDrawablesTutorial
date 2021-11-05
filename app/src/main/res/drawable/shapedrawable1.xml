@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- rectangulo por defecto, Otras son oval, line y ring -->
+    <!-- un borde redondeado especial para abajo a la derecha-->
+    <!-- un borde redondeado general para las demas esquinas-->
+    <corners
+        android:bottomRightRadius="10dp"
+        android:radius="40dp" />
+    <!--gradiente hay que especificar el start y el end.
+    centerColor opcional
+    tipo lineal por defecto. Otro tipo es radial
+    El ángulo para especificar hacia donde va el cambio de color-->
+    <gradient
+        android:angle="45"
+        android:centerX="0"
+        android:centerY="0"
+        android:endColor="#01f1fa"
+        android:gradientRadius="50"
+        android:startColor="#0189ff"
+        android:type="linear" />
+    <!--Para una forma con color sólido (sin gradiente)-->
+    <!--<solid
+    android:color="#FFFFFF" />-->
+    <!--También se puede cambiar el tamaño cuando se usa shape
+    drawable en una image view-->
+    <size
+        android:width="82dp"
+        android:height="82dp" />
+    <!--EL stroke es la linea alrededor de la forma-->
+    <!--Para hacer linea discontinua
+     android:dashWidth="2dp" y android:dashGap="2dp"-->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" />
+    <!--If you want to add padding<padding
+    android:left="10dp">-->
+   </shape>

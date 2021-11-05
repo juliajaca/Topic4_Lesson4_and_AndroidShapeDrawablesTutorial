@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Topic4_Lesson4_and_AndroidShapeDrawablesTutorial</string>
+    <string name="stringTitulo">Let´s go.</string>
+    <string name="StringSubtitulo">If you´re the artist or part of their manegement team, we ´ll show you how to get the most out of Spotify</string>
+    <string name="StringBoton">GET ACCESS</string>
 </resources>

@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/alumnat.INFORMAT/AndroidStudioProjects/Topic4_Lesson4_and_AndroidShapeDrawablesTutorial/app/src/main/res/drawable/boton.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/alumnat.INFORMAT/AndroidStudioProjects/Topic4_Lesson4_and_AndroidShapeDrawablesTutorial/app/src/main/res/drawable/fondo.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/alumnat.INFORMAT/AndroidStudioProjects/Topic4_Lesson4_and_AndroidShapeDrawablesTutorial/app/src/main/res/drawable/shapedrawable1.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/alumnat.INFORMAT/AndroidStudioProjects/Topic4_Lesson4_and_AndroidShapeDrawablesTutorial/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
